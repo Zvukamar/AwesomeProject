@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.user200.awesomeproject;
 
 import android.app.Application;
 import android.content.Context;
